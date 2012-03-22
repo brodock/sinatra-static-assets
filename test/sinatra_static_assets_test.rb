@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require './test/test_helper'
 require './test/sinatra_app'
 require 'test/unit'
